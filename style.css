@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+img{
+    width: 300px;
+    border-radius: 150px;
+}
+
+table  {
+    width: 30%;
+    border: 5px dotted rgb(231, 6, 6);
+    border-radius: 10%;
+    }
+ 
+    td{
+        border: 2px solid rgb(14, 196, 105);
+        color: wheat;
+    } 
+
+
+h1, footer, li{
+    color: wheat;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: random;
+}
+.center {
+    margin: auto;
+    width: 70%;
+    border: 3px solid #73AD21;
+    padding-top: 50px;
+  }
+  p{
+      margin: auto;
+  }
+
+.border{
+    border: dotted;
+}
+  
+.change{
+    font-size: large;
+    font-weight: bold;
+}
+.hide{
+    display: none;
+}
